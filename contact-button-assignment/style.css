@@ -1,0 +1,20 @@
+/*
+MY COLOR PALETTE
+Color 1 - #5BC0EB
+Color 2 - #FDE74C
+Color 3 - #9BC53D
+Color 4 - #C3423F
+Color 5 - #0B090A
+*/
+
+body {
+    background-color: #5BC0EB;
+}
+button {
+    background-color: #FDE74C;
+    color: #0B090A;      
+}
+
+button:hover {
+    background-color: #9BC53D;
+}
