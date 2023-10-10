@@ -31,7 +31,11 @@ p {
 }
 
 button {
-    background-color: 
+    background-color: #AA6A41;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
 }
 
 button:hover {
