@@ -13,19 +13,24 @@ body {
     }
     
 #navigation {
-    background-color: #B60000;
+    background-color: white;
+    }
+    
+#info {
+     text-align: center;   
     }
 
 .nav {
-       justify-content: center; 
+    justify-content:center; 
     }
 
 img {
     width:350px;
     border-radius:50px;
     border: 5px solid #000000;
-    margin: 20px 0px 0px 50px;
+    margin: 20px 0px 0px 100px;
 }
+
 
 h1 {
     font-family: 'Bebas Neue', sans-serif;
