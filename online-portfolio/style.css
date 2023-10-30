@@ -11,6 +11,14 @@ body {
 .container-fluid {
     background-color: #004AAD;
     }
+    
+#navigation {
+    background-color: #B60000;
+    }
+
+.nav {
+       justify-content: center; 
+    }
 
 img {
     width:350px;
@@ -39,25 +47,52 @@ h3 {
     color: white;
     font-size:80px;
     text-align: left;
-    padding: 5px 0px 0px 20px;
+    padding: 10px 0px 0px 20px;
 }
 
+h4 {
+    padding: 0px 0px 0px 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+    color: white;
+}
+
+h5 {
+    padding: 0px 0px 0px 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+h6 {
+    padding: 0px 0px 0px 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+    color: white;
+}
 p {
     font-family: 'Signika Negative', sans-serif;
     color: white;
-    font-size: 15px;
-    text-align: left;
+    font-size: 20px;
     padding: 10px 0px 0px 20px;
 } 
+
+#skills {
+    font-family: 'Signika Negative', sans-serif;
+    color: white;
+    font-size: 25px;
+    padding: 10px 0px 0px 30px;
+}
 
 #buttons {
     background-color: yellow;
     border: 5px solid #000000;
     border-radius: 10px;
     padding: 0px 20px 0px 20px;
-    font-size: 30px;
+    font-size: 50px;
     text-align:center;
     font-family: 'Signika Negative', sans-serif;
+    margin: 50px 50px 0px 50px
 }
 
 #button {
@@ -65,7 +100,6 @@ p {
     border: 5px solid #000000;
     border-radius: 10px;
     padding: 10px 40px 10px 40px;
-    margin: auto;
     font-size: 50px;
     text-align:center;
     font-family: 'Signika Negative', sans-serif;
@@ -84,6 +118,8 @@ p {
     color: white;
     text-align: center;
     font-family: 'Signika Negative', sans-serif;
+    position: fixed;
+    bottom: 0px;
 }
 
 }
