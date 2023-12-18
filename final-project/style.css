@@ -86,7 +86,7 @@ h9 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 15px;
     color: black;
-    text-align:center;
+    position: relative;
     }
     
 p {
@@ -190,10 +190,11 @@ h5 {
     
 h6 {
     padding: 0px;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 25px;
     text-align: left;
     color: black;
+    font-weight: bold;
 }
     
 h7 {
@@ -205,21 +206,21 @@ h7 {
 }
 
 h8 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 15px;
     color: white;
     text-align: center;
 }
     
 h9 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 15px;
     color: black;
     text-align:center;
     }
     
 p {
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: black;
     font-size: 20px;
     padding: 10px 0px 0px 20px;
@@ -247,4 +248,5 @@ p {
     margin-left: auto;
     margin-right: auto;
     }
+    
 }
