@@ -37,7 +37,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: white;
     text-align: center;
     font-size: 30px;
@@ -61,8 +61,8 @@ h4 {
 }
 
 h5 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
     color: black;
     text-align: center;
 }
@@ -72,13 +72,14 @@ h6 {
     font-size: 25px;
     color: black;
     text-align: center;
+    font-weight: bold;
 }
    
 h8 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 15px;
     color: white;
-    text-align: left;
+    text-align: center;
 }
 p {
     font-family: 'Signika Negative', sans-serif;
@@ -148,7 +149,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: white;
     text-align: center;
     font-size: 60px;
@@ -172,10 +173,11 @@ h4 {
 
 h5 {
     padding: 0px 0px 0px 50px;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
     color: black;
     text-align: center;
+    font-weight:bolder;
 }
     
 h6 {
@@ -198,8 +200,15 @@ h8 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 15px;
     color: white;
-    text-align: left;
+    text-align: center;
 }
+    
+h9 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align:center;
+    }
     
 p {
     font-family: 'Signika Negative', sans-serif;
@@ -226,5 +235,12 @@ p {
      
 #image {
     padding: 0px;
+    }
+
+#snyder{
+    width: 80%;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
 }
