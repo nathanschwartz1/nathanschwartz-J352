@@ -81,6 +81,14 @@ h8 {
     color: white;
     text-align: center;
 }
+
+h9 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align:center;
+    }
+    
 p {
     font-family: 'Signika Negative', sans-serif;
     color: black;
@@ -231,10 +239,6 @@ p {
 
 .content {
     width: 75%;
-    }
-     
-#image {
-    padding: 0px;
     }
 
 #snyder{
