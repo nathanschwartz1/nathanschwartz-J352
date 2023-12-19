@@ -132,8 +132,24 @@ p {
 #images{
         text-align: center;
     }
+    
+.pullquote{
+    font-size: 25px;
+    font-family: 'Nova Square', Serif;
+    font-weight: bolder;
+    color: #5A1414;
+    text-align: center;
+    border-top:3px solid #5A1414;
+    border-bottom:3px solid #5A1414;
+    padding:30px 5px 5px 5px;
+    margin:10px 0px 10px 0px;
+    }
+    
+.cite {
+    color:darkgray;
+    }  
+    
 }
-
 
 
 @media (min-width: 576px){
@@ -227,15 +243,31 @@ p {
     width: 75%;
     }
 
-#snyder{
+#snyder {
     width: 80%;   
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
     
-#images{
-        text-align: center;
+#images {
+    text-align: center;
     }
-    
+
+.pullquote {
+    font-size: 30px;
+    font-family: 'Nova Square', Serif;
+    font-weight: bolder;
+    color: #5A1414;
+    text-align: center;
+    border-top:3px solid #5A1414;
+    border-bottom:3px solid #5A1414;
+    padding:30px 5px 5px 5px;
+    margin:10px 0px 10px 0px;
+    }
+
+.cite{
+    color:darkgray;
+    }   
+
 }
